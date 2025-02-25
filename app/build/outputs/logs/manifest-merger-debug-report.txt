@@ -1,0 +1,407 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:2:1-66:12
+INJECTED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:2:1-66:12
+MERGED from [com.google.android.material:material:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4bef1701e672da5330136305fe453510/transformed/material-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.amitshekhariitbhu.Fast-Android-Networking:android-networking:1.0.4] /Users/naufalrefandi/.gradle/caches/transforms-3/98771a77ff5d0ff2f6f837fb0496f884/transformed/jetified-android-networking-1.0.4/AndroidManifest.xml:18:1-25:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/e6f7600ad92638507b831f16375fdbf2/transformed/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/415257d18c2b22f5a4b34b256e6db5cd/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:17:1-38:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/naufalrefandi/.gradle/caches/transforms-3/42b3581b28d94929a3cccb8c2179eeec/transformed/jetified-glide-4.11.0/AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/8a4ff200cb88efaee89822a1c7084ba8/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/a79f5a30acd97113d9dda0cf4d27e640/transformed/jetified-play-services-location-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/ed74ea9dc96708b5de94a8ff6c2b5657/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/39daab5bfd08ecebccfc697b609faef6/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/fcd0dc0d9cc029a0abbe08d5a917d209/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/f3ec1b1f9f61083ea50828868b686097/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/eb985588476f3671f9876ee5f4727f19/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.9.0] /Users/naufalrefandi/.gradle/caches/transforms-3/c9c6f1615c8dc983ec1699001b463b85/transformed/jetified-activity-1.9.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/d726b045ba94dfb3d6a94b00999b3355/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/46dfa6a80548eadb4a63c0c5428cab57/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/0f7c58a3950f6cdaf4c84ecd266bee4d/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/911fba75df13b9b930e4cd79e543b70a/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/96bb56594514e3194b8c9b096e965b33/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/1b73bee212e3b513db0027e1c87b7fa5/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/naufalrefandi/.gradle/caches/transforms-3/02efaff64843e64aa06dd78ce73236cc/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/a8578648ab29fe64619ddf0f10ee2232/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/09f7484d26a1cd914c7d49a07037d1ca/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/47fc660991f0826673d708af5141250a/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/naufalrefandi/.gradle/caches/transforms-3/15a63f50a205dc3eda71c820185d7fea/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/naufalrefandi/.gradle/caches/transforms-3/fb9037f4b6ceda263761cb2acddf56dc/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/naufalrefandi/.gradle/caches/transforms-3/c1d39f0cd6ab066535a0532fb46f2679/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/naufalrefandi/.gradle/caches/transforms-3/b6b7c507f61c2b9f1ce96a0f53253009/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/naufalrefandi/.gradle/caches/transforms-3/f96b802336694a62047354fb299a8753/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/naufalrefandi/.gradle/caches/transforms-3/4210c83ce56ff7419ad428761c97a89e/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/naufalrefandi/.gradle/caches/transforms-3/e36ea3262fb2b1226edcb5818461586f/transformed/jetified-core-ktx-1.13.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.core:core:1.13.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4947106c339b3d09df9822387f0bbab5/transformed/core-1.13.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/naufalrefandi/.gradle/caches/transforms-3/3a6a1c684b3c48fdc1cf65c416863835/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/d2b1d7ee731651824e97a6f70f48f0ba/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/d6ef273c6609bc5ba60797b1ba33eb34/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/naufalrefandi/.gradle/caches/transforms-3/962b9f275ac21a26923b596f6a0dfd32/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/naufalrefandi/.gradle/caches/transforms-3/42ad125b4d576acdcda41016aa5ff256/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/9a68c71a6c75afe8e600da44c19b25fa/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4f8d184a8564f91e86cfb6d4d9905a71/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/2efad751ea542cdf1a22fe6e56ce1222/transformed/exifinterface-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/naufalrefandi/.gradle/caches/transforms-3/28747fec5154c8331bff1548a01f8638/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/167c11329e652592d126a36e5e23f008/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4bc1ae53c8847f733aaf2af7252bedf3/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/naufalrefandi/.gradle/caches/transforms-3/eacfc9b47efabc86ae0820203a887fd3/transformed/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+	package
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:3:5-31
+		INJECTED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/415257d18c2b22f5a4b34b256e6db5cd/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/415257d18c2b22f5a4b34b256e6db5cd/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:6:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:8:5-69
+	android:name
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:8:22-66
+application
+ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:10:5-64:19
+INJECTED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:10:5-64:19
+MERGED from [com.google.android.material:material:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4bef1701e672da5330136305fe453510/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4bef1701e672da5330136305fe453510/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/415257d18c2b22f5a4b34b256e6db5cd/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/415257d18c2b22f5a4b34b256e6db5cd/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/naufalrefandi/.gradle/caches/transforms-3/42b3581b28d94929a3cccb8c2179eeec/transformed/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/naufalrefandi/.gradle/caches/transforms-3/42b3581b28d94929a3cccb8c2179eeec/transformed/jetified-glide-4.11.0/AndroidManifest.xml:10:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/a79f5a30acd97113d9dda0cf4d27e640/transformed/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/a79f5a30acd97113d9dda0cf4d27e640/transformed/jetified-play-services-location-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/ed74ea9dc96708b5de94a8ff6c2b5657/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/ed74ea9dc96708b5de94a8ff6c2b5657/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/39daab5bfd08ecebccfc697b609faef6/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/39daab5bfd08ecebccfc697b609faef6/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/fcd0dc0d9cc029a0abbe08d5a917d209/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/fcd0dc0d9cc029a0abbe08d5a917d209/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/f3ec1b1f9f61083ea50828868b686097/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/f3ec1b1f9f61083ea50828868b686097/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.13.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4947106c339b3d09df9822387f0bbab5/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4947106c339b3d09df9822387f0bbab5/transformed/core-1.13.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/naufalrefandi/.gradle/caches/transforms-3/962b9f275ac21a26923b596f6a0dfd32/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/naufalrefandi/.gradle/caches/transforms-3/962b9f275ac21a26923b596f6a0dfd32/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/naufalrefandi/.gradle/caches/transforms-3/42ad125b4d576acdcda41016aa5ff256/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/naufalrefandi/.gradle/caches/transforms-3/42ad125b4d576acdcda41016aa5ff256/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4f8d184a8564f91e86cfb6d4d9905a71/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4f8d184a8564f91e86cfb6d4d9905a71/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/naufalrefandi/.gradle/caches/transforms-3/28747fec5154c8331bff1548a01f8638/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/naufalrefandi/.gradle/caches/transforms-3/28747fec5154c8331bff1548a01f8638/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/naufalrefandi/.gradle/caches/transforms-3/eacfc9b47efabc86ae0820203a887fd3/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/naufalrefandi/.gradle/caches/transforms-3/eacfc9b47efabc86ae0820203a887fd3/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+	android:extractNativeLibs
+		INJECTED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.13.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4947106c339b3d09df9822387f0bbab5/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:14:9-49
+	android:icon
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:12:9-44
+	android:allowBackup
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:16:9-40
+	android:usesCleartextTraffic
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:17:9-44
+activity#com.natan.klinik.activities.MapsActivity
+ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:18:9-20:40
+	android:exported
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:20:13-37
+	android:name
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:19:13-52
+activity#com.natan.klinik.activities.PrayPlaceActivity
+ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:21:9-23:39
+	android:exported
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:23:13-36
+	android:name
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:22:13-57
+activity#com.natan.klinik.activities.SamsatActivity
+ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:24:9-26:39
+	android:exported
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:25:13-54
+activity#com.natan.klinik.activities.KantorActivity
+ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:27:9-29:39
+	android:exported
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:29:13-36
+	android:name
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:28:13-54
+activity#com.natan.klinik.activities.DetailWisataActivity
+ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:30:9-32:39
+	android:exported
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:31:13-60
+activity#com.natan.klinik.activities.WisataActivity
+ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:33:9-35:39
+	android:exported
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:35:13-36
+	android:name
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:34:13-54
+activity#com.natan.klinik.activities.DetailKulinerActivity
+ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:36:9-38:39
+	android:exported
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:38:13-36
+	android:name
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:37:13-61
+activity#com.natan.klinik.activities.KulinerActivity
+ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:39:9-41:39
+	android:exported
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:41:13-36
+	android:name
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:40:13-55
+activity#com.natan.klinik.activities.DetailHotelActivity
+ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:42:9-44:39
+	android:exported
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:44:13-36
+	android:name
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:43:13-59
+activity#com.natan.klinik.activities.HotelActivity
+ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:45:9-47:39
+	android:exported
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:47:13-36
+	android:name
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:46:13-53
+activity#com.natan.klinik.activities.MainActivity
+ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:48:9-56:20
+	android:exported
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:50:13-36
+	android:name
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:49:13-52
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:51:13-55:29
+action#android.intent.action.MAIN
+ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:52:17-69
+	android:name
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:52:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:54:17-77
+	android:name
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:54:27-74
+meta-data#com.google.android.gms.version
+ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:58:9-60:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/f3ec1b1f9f61083ea50828868b686097/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/f3ec1b1f9f61083ea50828868b686097/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:60:13-66
+	android:name
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:59:13-58
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:61:9-63:71
+	android:value
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:63:13-68
+	android:name
+		ADDED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml:62:13-58
+uses-sdk
+INJECTED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml
+INJECTED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4bef1701e672da5330136305fe453510/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4bef1701e672da5330136305fe453510/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.amitshekhariitbhu.Fast-Android-Networking:android-networking:1.0.4] /Users/naufalrefandi/.gradle/caches/transforms-3/98771a77ff5d0ff2f6f837fb0496f884/transformed/jetified-android-networking-1.0.4/AndroidManifest.xml:21:5-23:41
+MERGED from [com.github.amitshekhariitbhu.Fast-Android-Networking:android-networking:1.0.4] /Users/naufalrefandi/.gradle/caches/transforms-3/98771a77ff5d0ff2f6f837fb0496f884/transformed/jetified-android-networking-1.0.4/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/e6f7600ad92638507b831f16375fdbf2/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/e6f7600ad92638507b831f16375fdbf2/transformed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/415257d18c2b22f5a4b34b256e6db5cd/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/415257d18c2b22f5a4b34b256e6db5cd/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/naufalrefandi/.gradle/caches/transforms-3/42b3581b28d94929a3cccb8c2179eeec/transformed/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] /Users/naufalrefandi/.gradle/caches/transforms-3/42b3581b28d94929a3cccb8c2179eeec/transformed/jetified-glide-4.11.0/AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/8a4ff200cb88efaee89822a1c7084ba8/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/8a4ff200cb88efaee89822a1c7084ba8/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/a79f5a30acd97113d9dda0cf4d27e640/transformed/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/a79f5a30acd97113d9dda0cf4d27e640/transformed/jetified-play-services-location-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/ed74ea9dc96708b5de94a8ff6c2b5657/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/ed74ea9dc96708b5de94a8ff6c2b5657/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/39daab5bfd08ecebccfc697b609faef6/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/39daab5bfd08ecebccfc697b609faef6/transformed/jetified-play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/fcd0dc0d9cc029a0abbe08d5a917d209/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/fcd0dc0d9cc029a0abbe08d5a917d209/transformed/jetified-play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/f3ec1b1f9f61083ea50828868b686097/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/f3ec1b1f9f61083ea50828868b686097/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/eb985588476f3671f9876ee5f4727f19/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/eb985588476f3671f9876ee5f4727f19/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.9.0] /Users/naufalrefandi/.gradle/caches/transforms-3/c9c6f1615c8dc983ec1699001b463b85/transformed/jetified-activity-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.0] /Users/naufalrefandi/.gradle/caches/transforms-3/c9c6f1615c8dc983ec1699001b463b85/transformed/jetified-activity-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/d726b045ba94dfb3d6a94b00999b3355/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/d726b045ba94dfb3d6a94b00999b3355/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/46dfa6a80548eadb4a63c0c5428cab57/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/46dfa6a80548eadb4a63c0c5428cab57/transformed/jetified-appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/0f7c58a3950f6cdaf4c84ecd266bee4d/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/0f7c58a3950f6cdaf4c84ecd266bee4d/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/911fba75df13b9b930e4cd79e543b70a/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/911fba75df13b9b930e4cd79e543b70a/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/96bb56594514e3194b8c9b096e965b33/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/96bb56594514e3194b8c9b096e965b33/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/1b73bee212e3b513db0027e1c87b7fa5/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/1b73bee212e3b513db0027e1c87b7fa5/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] /Users/naufalrefandi/.gradle/caches/transforms-3/02efaff64843e64aa06dd78ce73236cc/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/naufalrefandi/.gradle/caches/transforms-3/02efaff64843e64aa06dd78ce73236cc/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/a8578648ab29fe64619ddf0f10ee2232/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/a8578648ab29fe64619ddf0f10ee2232/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/09f7484d26a1cd914c7d49a07037d1ca/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/09f7484d26a1cd914c7d49a07037d1ca/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/47fc660991f0826673d708af5141250a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/47fc660991f0826673d708af5141250a/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/naufalrefandi/.gradle/caches/transforms-3/15a63f50a205dc3eda71c820185d7fea/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/naufalrefandi/.gradle/caches/transforms-3/15a63f50a205dc3eda71c820185d7fea/transformed/jetified-savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/naufalrefandi/.gradle/caches/transforms-3/fb9037f4b6ceda263761cb2acddf56dc/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.2] /Users/naufalrefandi/.gradle/caches/transforms-3/fb9037f4b6ceda263761cb2acddf56dc/transformed/lifecycle-viewmodel-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/naufalrefandi/.gradle/caches/transforms-3/c1d39f0cd6ab066535a0532fb46f2679/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.2] /Users/naufalrefandi/.gradle/caches/transforms-3/c1d39f0cd6ab066535a0532fb46f2679/transformed/lifecycle-livedata-core-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/naufalrefandi/.gradle/caches/transforms-3/b6b7c507f61c2b9f1ce96a0f53253009/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.2] /Users/naufalrefandi/.gradle/caches/transforms-3/b6b7c507f61c2b9f1ce96a0f53253009/transformed/lifecycle-livedata-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/naufalrefandi/.gradle/caches/transforms-3/f96b802336694a62047354fb299a8753/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.2] /Users/naufalrefandi/.gradle/caches/transforms-3/f96b802336694a62047354fb299a8753/transformed/lifecycle-runtime-2.6.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/naufalrefandi/.gradle/caches/transforms-3/4210c83ce56ff7419ad428761c97a89e/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.2] /Users/naufalrefandi/.gradle/caches/transforms-3/4210c83ce56ff7419ad428761c97a89e/transformed/jetified-lifecycle-viewmodel-savedstate-2.6.2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/naufalrefandi/.gradle/caches/transforms-3/e36ea3262fb2b1226edcb5818461586f/transformed/jetified-core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.0] /Users/naufalrefandi/.gradle/caches/transforms-3/e36ea3262fb2b1226edcb5818461586f/transformed/jetified-core-ktx-1.13.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core:1.13.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4947106c339b3d09df9822387f0bbab5/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4947106c339b3d09df9822387f0bbab5/transformed/core-1.13.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/naufalrefandi/.gradle/caches/transforms-3/3a6a1c684b3c48fdc1cf65c416863835/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/naufalrefandi/.gradle/caches/transforms-3/3a6a1c684b3c48fdc1cf65c416863835/transformed/jetified-annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/d2b1d7ee731651824e97a6f70f48f0ba/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/d2b1d7ee731651824e97a6f70f48f0ba/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/d6ef273c6609bc5ba60797b1ba33eb34/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/d6ef273c6609bc5ba60797b1ba33eb34/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/naufalrefandi/.gradle/caches/transforms-3/962b9f275ac21a26923b596f6a0dfd32/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/naufalrefandi/.gradle/caches/transforms-3/962b9f275ac21a26923b596f6a0dfd32/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/naufalrefandi/.gradle/caches/transforms-3/42ad125b4d576acdcda41016aa5ff256/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/naufalrefandi/.gradle/caches/transforms-3/42ad125b4d576acdcda41016aa5ff256/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/9a68c71a6c75afe8e600da44c19b25fa/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/9a68c71a6c75afe8e600da44c19b25fa/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4f8d184a8564f91e86cfb6d4d9905a71/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4f8d184a8564f91e86cfb6d4d9905a71/transformed/jetified-gifdecoder-4.11.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/2efad751ea542cdf1a22fe6e56ce1222/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/2efad751ea542cdf1a22fe6e56ce1222/transformed/exifinterface-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/naufalrefandi/.gradle/caches/transforms-3/28747fec5154c8331bff1548a01f8638/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/naufalrefandi/.gradle/caches/transforms-3/28747fec5154c8331bff1548a01f8638/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/167c11329e652592d126a36e5e23f008/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/167c11329e652592d126a36e5e23f008/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4bc1ae53c8847f733aaf2af7252bedf3/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4bc1ae53c8847f733aaf2af7252bedf3/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/naufalrefandi/.gradle/caches/transforms-3/eacfc9b47efabc86ae0820203a887fd3/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/naufalrefandi/.gradle/caches/transforms-3/eacfc9b47efabc86ae0820203a887fd3/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+	android:targetSdkVersion
+		INJECTED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/415257d18c2b22f5a4b34b256e6db5cd/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/415257d18c2b22f5a4b34b256e6db5cd/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/415257d18c2b22f5a4b34b256e6db5cd/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/415257d18c2b22f5a4b34b256e6db5cd/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/415257d18c2b22f5a4b34b256e6db5cd/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/415257d18c2b22f5a4b34b256e6db5cd/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/415257d18c2b22f5a4b34b256e6db5cd/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/415257d18c2b22f5a4b34b256e6db5cd/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:34:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/ed74ea9dc96708b5de94a8ff6c2b5657/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/ed74ea9dc96708b5de94a8ff6c2b5657/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/ed74ea9dc96708b5de94a8ff6c2b5657/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/ed74ea9dc96708b5de94a8ff6c2b5657/transformed/jetified-play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4947106c339b3d09df9822387f0bbab5/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4947106c339b3d09df9822387f0bbab5/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4947106c339b3d09df9822387f0bbab5/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+permission#com.natan.klinik.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4947106c339b3d09df9822387f0bbab5/transformed/core-1.13.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.13.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4947106c339b3d09df9822387f0bbab5/transformed/core-1.13.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4947106c339b3d09df9822387f0bbab5/transformed/core-1.13.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4947106c339b3d09df9822387f0bbab5/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4947106c339b3d09df9822387f0bbab5/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+uses-permission#com.natan.klinik.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.13.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4947106c339b3d09df9822387f0bbab5/transformed/core-1.13.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.13.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4947106c339b3d09df9822387f0bbab5/transformed/core-1.13.0/AndroidManifest.xml:26:22-94
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/naufalrefandi/.gradle/caches/transforms-3/962b9f275ac21a26923b596f6a0dfd32/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/naufalrefandi/.gradle/caches/transforms-3/42ad125b4d576acdcda41016aa5ff256/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/naufalrefandi/.gradle/caches/transforms-3/42ad125b4d576acdcda41016aa5ff256/transformed/jetified-startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/naufalrefandi/.gradle/caches/transforms-3/962b9f275ac21a26923b596f6a0dfd32/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/naufalrefandi/.gradle/caches/transforms-3/962b9f275ac21a26923b596f6a0dfd32/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/naufalrefandi/.gradle/caches/transforms-3/962b9f275ac21a26923b596f6a0dfd32/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/naufalrefandi/.gradle/caches/transforms-3/962b9f275ac21a26923b596f6a0dfd32/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:25:13-67
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/naufalrefandi/.gradle/caches/transforms-3/962b9f275ac21a26923b596f6a0dfd32/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/naufalrefandi/.gradle/caches/transforms-3/962b9f275ac21a26923b596f6a0dfd32/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/naufalrefandi/.gradle/caches/transforms-3/962b9f275ac21a26923b596f6a0dfd32/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/naufalrefandi/.gradle/caches/transforms-3/962b9f275ac21a26923b596f6a0dfd32/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/naufalrefandi/.gradle/caches/transforms-3/962b9f275ac21a26923b596f6a0dfd32/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/naufalrefandi/.gradle/caches/transforms-3/962b9f275ac21a26923b596f6a0dfd32/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/naufalrefandi/.gradle/caches/transforms-3/962b9f275ac21a26923b596f6a0dfd32/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/naufalrefandi/.gradle/caches/transforms-3/962b9f275ac21a26923b596f6a0dfd32/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/naufalrefandi/.gradle/caches/transforms-3/962b9f275ac21a26923b596f6a0dfd32/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/naufalrefandi/.gradle/caches/transforms-3/962b9f275ac21a26923b596f6a0dfd32/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/naufalrefandi/.gradle/caches/transforms-3/962b9f275ac21a26923b596f6a0dfd32/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/naufalrefandi/.gradle/caches/transforms-3/962b9f275ac21a26923b596f6a0dfd32/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/naufalrefandi/.gradle/caches/transforms-3/962b9f275ac21a26923b596f6a0dfd32/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/naufalrefandi/.gradle/caches/transforms-3/962b9f275ac21a26923b596f6a0dfd32/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/naufalrefandi/.gradle/caches/transforms-3/962b9f275ac21a26923b596f6a0dfd32/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/naufalrefandi/.gradle/caches/transforms-3/962b9f275ac21a26923b596f6a0dfd32/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/naufalrefandi/.gradle/caches/transforms-3/962b9f275ac21a26923b596f6a0dfd32/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/naufalrefandi/.gradle/caches/transforms-3/962b9f275ac21a26923b596f6a0dfd32/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/naufalrefandi/.gradle/caches/transforms-3/962b9f275ac21a26923b596f6a0dfd32/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/naufalrefandi/.gradle/caches/transforms-3/962b9f275ac21a26923b596f6a0dfd32/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/naufalrefandi/.gradle/caches/transforms-3/962b9f275ac21a26923b596f6a0dfd32/transformed/jetified-profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
