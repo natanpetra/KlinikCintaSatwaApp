@@ -1,9 +1,9 @@
-#Tue Feb 25 09:22:57 WIB 2025
-base.2=/Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/7/classes.dex
+#Fri Mar 07 16:21:33 WIB 2025
+base.2=/Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/7/classes.dex
 path.2=7/classes.dex
-base.1=/Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.1=/Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
 path.1=0/classes.dex
-base.0=/Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
+base.0=/Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/build/intermediates/dex/debugAndroidTest/mergeExtDexDebugAndroidTest/classes.dex
 renamed.2=classes3.dex
 renamed.1=classes2.dex
 renamed.0=classes.dex

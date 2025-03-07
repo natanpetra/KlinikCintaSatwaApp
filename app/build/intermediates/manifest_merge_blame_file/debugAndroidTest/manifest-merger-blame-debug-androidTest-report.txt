@@ -3,24 +3,24 @@
 3    package="com.natan.klinik.test" >
 4
 5    <uses-sdk
-5-->/Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2283265389892268183.xml:5:5-74
+5-->/Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9961149117064834405.xml:5:5-74
 6        android:minSdkVersion="21"
-6-->/Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2283265389892268183.xml:5:15-41
+6-->/Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9961149117064834405.xml:5:15-41
 7        android:targetSdkVersion="34" />
-7-->/Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2283265389892268183.xml:5:42-71
+7-->/Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9961149117064834405.xml:5:42-71
 8
 9    <instrumentation
-9-->/Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2283265389892268183.xml:11:5-15:66
+9-->/Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9961149117064834405.xml:11:5-15:66
 10        android:name="androidx.test.runner.AndroidJUnitRunner"
-10-->/Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2283265389892268183.xml:11:22-76
+10-->/Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9961149117064834405.xml:11:22-76
 11        android:functionalTest="false"
-11-->/Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2283265389892268183.xml:14:22-52
+11-->/Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9961149117064834405.xml:14:22-52
 12        android:handleProfiling="false"
-12-->/Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2283265389892268183.xml:13:22-53
+12-->/Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9961149117064834405.xml:13:22-53
 13        android:label="Tests for com.natan.klinik"
-13-->/Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2283265389892268183.xml:15:22-64
+13-->/Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9961149117064834405.xml:15:22-64
 14        android:targetPackage="com.natan.klinik" />
-14-->/Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2283265389892268183.xml:12:22-62
+14-->/Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9961149117064834405.xml:12:22-62
 15
 16    <queries>
 16-->[androidx.test:runner:1.5.2] /Users/naufalrefandi/.gradle/caches/transforms-3/8cea3151e32388dc421d7f3c20fe77e6/transformed/runner-1.5.2/AndroidManifest.xml:24:5-28:15
@@ -40,12 +40,12 @@
 22-->[androidx.test:core:1.5.0] /Users/naufalrefandi/.gradle/caches/transforms-3/088f38928e4dc46e8da16575902a1531/transformed/jetified-core-1.5.0/AndroidManifest.xml:24:22-69
 23
 24    <application
-24-->/Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2283265389892268183.xml:7:5-9:19
+24-->/Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9961149117064834405.xml:7:5-9:19
 25        android:debuggable="true"
 26        android:extractNativeLibs="true" >
 27        <uses-library android:name="android.test.runner" />
-27-->/Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2283265389892268183.xml:8:9-60
-27-->/Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest2283265389892268183.xml:8:23-57
+27-->/Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9961149117064834405.xml:8:9-60
+27-->/Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/build/intermediates/tmp/manifest/androidTest/debug/tempFile1ProcessTestManifest9961149117064834405.xml:8:23-57
 28
 29        <activity
 29-->[androidx.test:core:1.5.0] /Users/naufalrefandi/.gradle/caches/transforms-3/088f38928e4dc46e8da16575902a1531/transformed/jetified-core-1.5.0/AndroidManifest.xml:27:9-34:20

@@ -1388,6 +1388,7 @@ drawable btn_radio_off_mtrl
 drawable btn_radio_off_to_on_mtrl_animation
 drawable btn_radio_on_mtrl
 drawable btn_radio_on_to_off_mtrl_animation
+drawable button_background
 drawable common_full_open_on_phone
 drawable common_google_signin_btn_icon_dark
 drawable common_google_signin_btn_icon_dark_focused
@@ -1414,6 +1415,7 @@ drawable design_ic_visibility
 drawable design_ic_visibility_off
 drawable design_password_eye
 drawable design_snackbar_background
+drawable edittext_background
 drawable googleg_disabled_color_18
 drawable googleg_standard_color_18
 drawable ic_arrow
@@ -1564,6 +1566,7 @@ id beginning
 id blocking
 id bottom
 id btnOpenMaps
+id btn_login
 id buttonPanel
 id cancel_button
 id center
@@ -1610,6 +1613,8 @@ id edit_text_id
 id end
 id enterAlways
 id enterAlwaysCollapsed
+id et_password
+id et_username
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
@@ -1639,6 +1644,7 @@ id icon_group
 id icon_only
 id ifRoom
 id image
+id imgDoctor
 id imgHotel
 id imgKuliner
 id imgMainData
@@ -1664,6 +1670,8 @@ id line1
 id line3
 id listMode
 id list_item
+id login_image
+id main
 id map
 id mapView
 id masked
@@ -1731,6 +1739,7 @@ id rvHotel
 id rvKuliner
 id rvMainMenu
 id rvPrayPlace
+id rvProduct
 id rvWisata
 id satellite
 id save_non_transition_alpha
@@ -1836,9 +1845,11 @@ id tvMainData
 id tvNamaHotel
 id tvNamaKuliner
 id tvNamaWisata
+id tvName
 id tvOpenTime
 id tvPhoneHotel
 id tvPhoneKuliner
+id tvSpecialist
 id tvWisata
 id txtPlaceName
 id unchecked
@@ -1920,11 +1931,16 @@ layout abc_tooltip
 layout activity_detail_hotel
 layout activity_detail_kuliner
 layout activity_detail_wisata
+layout activity_doctor_list
+layout activity_dog_guide
 layout activity_hotel
 layout activity_kuliner
+layout activity_login
 layout activity_main
 layout activity_maps
 layout activity_pray_place
+layout activity_product_list
+layout activity_splash_screen
 layout activity_wisata
 layout custom_dialog
 layout design_bottom_navigation_item
@@ -1946,9 +1962,11 @@ layout header_main
 layout ime_base_split_test_activity
 layout ime_secondary_split_test_activity
 layout item_grid_main
+layout item_list_doctor
 layout item_list_hotel
 layout item_list_kuliner
 layout item_list_pray_place
+layout item_list_product
 layout item_list_wisata
 layout mtrl_alert_dialog
 layout mtrl_alert_dialog_actions

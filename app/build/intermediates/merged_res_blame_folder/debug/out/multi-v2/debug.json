@@ -4268,42 +4268,6 @@
                     }
                 },
                 {
-                    "source": "/Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "10,3,23,12,25,18",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "382,57,875,432,969,647",
-                        "endLines": "10,8,23,16,25,21",
-                        "endColumns": "46,12,90,12,80,12",
-                        "endOffsets": "424,374,961,639,1045,867"
-                    },
-                    "to": {
-                        "startLines": "214,902,908,909,914,3623",
-                        "startColumns": "4,4,4,4,4,4",
-                        "startOffsets": "10839,62224,62506,62596,62804,240925",
-                        "endLines": "214,907,908,913,914,3626",
-                        "endColumns": "46,12,89,12,79,12",
-                        "endOffsets": "10881,62501,62591,62799,62879,241142"
-                    }
-                },
-                {
-                    "source": "/Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/res/values/strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "61",
-                        "endOffsets": "73"
-                    },
-                    "to": {
-                        "startLines": "809",
-                        "startColumns": "4",
-                        "startOffsets": "49734",
-                        "endColumns": "61",
-                        "endOffsets": "49791"
-                    }
-                },
-                {
                     "source": "/Users/naufalrefandi/.gradle/caches/transforms-3/42b3581b28d94929a3cccb8c2179eeec/transformed/jetified-glide-4.11.0/res/values/values.xml",
                     "from": {
                         "startLines": "2",
@@ -4355,6 +4319,23 @@
                     }
                 },
                 {
+                    "source": "/Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "61",
+                        "endOffsets": "73"
+                    },
+                    "to": {
+                        "startLines": "809",
+                        "startColumns": "4",
+                        "startOffsets": "49734",
+                        "endColumns": "61",
+                        "endOffsets": "49791"
+                    }
+                },
+                {
                     "source": "/Users/naufalrefandi/.gradle/caches/transforms-3/15a63f50a205dc3eda71c820185d7fea/transformed/jetified-savedstate-1.2.1/res/values/values.xml",
                     "from": {
                         "startLines": "2",
@@ -4386,6 +4367,25 @@
                         "startOffsets": "46034",
                         "endColumns": "49",
                         "endOffsets": "46079"
+                    }
+                },
+                {
+                    "source": "/Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "10,3,23,12,25,18",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "382,57,875,432,969,647",
+                        "endLines": "10,8,23,16,25,21",
+                        "endColumns": "46,12,90,12,80,12",
+                        "endOffsets": "424,374,961,639,1045,867"
+                    },
+                    "to": {
+                        "startLines": "214,902,908,909,914,3623",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "10839,62224,62506,62596,62804,240925",
+                        "endLines": "214,907,908,913,914,3626",
+                        "endColumns": "46,12,89,12,79,12",
+                        "endOffsets": "10881,62501,62591,62799,62879,241142"
                     }
                 },
                 {
@@ -4501,7 +4501,7 @@
                     }
                 },
                 {
-                    "source": "/Users/naufalrefandi/Downloads/WisataPurwakarta-master/KlinikCintaSatwa/app/src/main/res/values/colors.xml",
+                    "source": "/Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/res/values/colors.xml",
                     "from": {
                         "startLines": "5,2,4,3",
                         "startColumns": "4,4,4,4",

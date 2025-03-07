@@ -29,7 +29,7 @@ class MainAdapter(
 
     override fun onBindViewHolder(holder: MainViewHolder, position: Int) {
         val data = items[position]
-        holder.imgMainData.setImageResource(data.imgSrc)
+        holder.imgMainData.setImageResource(data!!.imgSrc)
         holder.tvMainData.text = data.txtName
         holder.cvMainData.setOnClickListener {
             onSelectData.onSelected(data)

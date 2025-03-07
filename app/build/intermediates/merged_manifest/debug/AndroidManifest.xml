@@ -31,44 +31,29 @@
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
         android:extractNativeLibs="true"
-        android:icon="@drawable/logo_polda"
+        android:icon="@drawable/img_klinik_cinta"
         android:label="@string/app_name"
-        android:roundIcon="@drawable/logo_polda"
+        android:roundIcon="@drawable/img_klinik_cinta"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true" >
         <activity
-            android:name="com.natan.klinik.activities.MapsActivity"
+            android:name="com.natan.klinik.activities.ProductListActivity"
             android:exported="false" />
         <activity
-            android:name="com.natan.klinik.activities.PrayPlaceActivity"
-            android:exported="true" />
-        <activity
-            android:name="com.natan.klinik.activities.SamsatActivity"
-            android:exported="true" />
-        <activity
-            android:name="com.natan.klinik.activities.KantorActivity"
-            android:exported="true" />
-        <activity
-            android:name="com.natan.klinik.activities.DetailWisataActivity"
-            android:exported="true" />
-        <activity
-            android:name="com.natan.klinik.activities.WisataActivity"
-            android:exported="true" />
-        <activity
-            android:name="com.natan.klinik.activities.DetailKulinerActivity"
-            android:exported="true" />
-        <activity
-            android:name="com.natan.klinik.activities.KulinerActivity"
-            android:exported="true" />
-        <activity
-            android:name="com.natan.klinik.activities.DetailHotelActivity"
-            android:exported="true" />
-        <activity
-            android:name="com.natan.klinik.activities.HotelActivity"
-            android:exported="true" />
-        <activity
             android:name="com.natan.klinik.activities.MainActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.natan.klinik.activities.DoctorListActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.natan.klinik.activities.DogGuideActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.natan.klinik.activities.LoginActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.natan.klinik.activities.SplashScreenActivity"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
