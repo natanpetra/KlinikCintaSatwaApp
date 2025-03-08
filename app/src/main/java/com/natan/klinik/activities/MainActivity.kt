@@ -113,6 +113,14 @@ class MainActivity : AppCompatActivity(), MainAdapter.OnSelectData {
     }
 
     override fun onSelected(mdlMain: ModelMain?) {
-        TODO("Not yet implemented")
+        if (mdlMain?.txtName == "Klinik") {
+            startActivity(Intent(this, ClinicActivity::class.java))
+        } else if (mdlMain?.txtName == "Dog Care") {
+            startActivity(Intent(this, DogGuideActivity::class.java))
+        } else if (mdlMain?.txtName == "Dokter") {
+            startActivity(Intent(this, DoctorListActivity::class.java))
+        } else if (mdlMain?.txtName == "Produk") {
+            startActivity(Intent(this, ProductListActivity::class.java))
+        }
     }
 }

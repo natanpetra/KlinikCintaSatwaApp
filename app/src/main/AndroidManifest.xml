@@ -16,6 +16,9 @@
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true">
         <activity
+            android:name=".activities.ClinicActivity"
+            android:exported="false" />
+        <activity
             android:name=".activities.ProductListActivity"
             android:exported="false" />
         <activity

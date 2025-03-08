@@ -1,5 +1,8 @@
 package com.natan.klinik.network
 
+import com.natan.klinik.model.Clinic
+import com.natan.klinik.model.DoctorItem
+import com.natan.klinik.model.ProductItem
 import com.natan.klinik.model.Profile
 import retrofit2.Call
 import retrofit2.http.Field
@@ -13,4 +16,16 @@ interface ApiService {
         @Field("email") email: String,
         @Field("password") password: String
     ): Call<Profile>
+
+    @POST("product") // Sesuaikan dengan endpoint API kamu
+    fun getProduct(
+    ): Call<List<ProductItem>>
+
+    @POST("clinic") // Sesuaikan dengan endpoint API kamu
+    fun getClinic(
+    ): Call <Clinic>
+
+    @POST("doctors") // Sesuaikan dengan endpoint API kamu
+    fun getDoctor(
+    ): Call<List<DoctorItem>>
 }

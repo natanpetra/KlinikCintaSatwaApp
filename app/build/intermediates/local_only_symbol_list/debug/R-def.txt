@@ -68,6 +68,7 @@ id map
 id mapView
 id rlHotel
 id rlListHotel
+id rvDoctor
 id rvHotel
 id rvKuliner
 id rvMainMenu
@@ -77,6 +78,7 @@ id rvWisata
 id tbDetailHotel
 id tbDetailKuliner
 id tbDetailWisata
+id toolbar
 id toolbar_hotel
 id toolbar_kuliner
 id toolbar_place
@@ -100,6 +102,7 @@ id tvPhoneKuliner
 id tvSpecialist
 id tvWisata
 id txtPlaceName
+layout activity_clinic
 layout activity_detail_hotel
 layout activity_detail_kuliner
 layout activity_detail_wisata
