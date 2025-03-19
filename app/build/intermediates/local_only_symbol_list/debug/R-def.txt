@@ -26,8 +26,11 @@ drawable ic_hotel
 drawable ic_komunitas
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_location
+drawable ic_phone
 drawable ic_pray_place
 drawable ic_rute_angkot
+drawable ic_schedule
 drawable ic_tour
 drawable img_clinic
 drawable img_doctor
@@ -41,6 +44,7 @@ drawable pos_polisi
 id arrow
 id btnOpenMaps
 id btn_login
+id cvDoctor
 id cvKuliner
 id cvMainData
 id cvPrayList
@@ -48,6 +52,9 @@ id cvWisata
 id et_password
 id et_username
 id fabOpenMaps
+id icAddress
+id icPhone
+id icSchedule
 id imgDoctor
 id imgHotel
 id imgKuliner
@@ -69,6 +76,7 @@ id mapView
 id rlHotel
 id rlListHotel
 id rvDoctor
+id rvGuide
 id rvHotel
 id rvKuliner
 id rvMainMenu
@@ -85,6 +93,10 @@ id toolbar_place
 id toolbar_wisata
 id tvAddressHotel
 id tvAddressKuliner
+id tvClinicAddress
+id tvClinicName
+id tvClinicPhone
+id tvClinicSchedule
 id tvDate
 id tvDesc
 id tvDescWisata
@@ -100,6 +112,7 @@ id tvOpenTime
 id tvPhoneHotel
 id tvPhoneKuliner
 id tvSpecialist
+id tvTitle
 id tvWisata
 id txtPlaceName
 layout activity_clinic
@@ -120,6 +133,7 @@ layout activity_wisata
 layout header_main
 layout item_grid_main
 layout item_list_doctor
+layout item_list_guide
 layout item_list_hotel
 layout item_list_kuliner
 layout item_list_pray_place

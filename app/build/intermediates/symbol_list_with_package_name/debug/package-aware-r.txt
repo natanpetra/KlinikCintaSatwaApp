@@ -1446,14 +1446,17 @@ drawable ic_keyboard_arrow_right_black_24dp
 drawable ic_komunitas
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_location
 drawable ic_menu_arrow_down_black_24dp
 drawable ic_menu_arrow_up_black_24dp
 drawable ic_mtrl_checked_circle
 drawable ic_mtrl_chip_checked_black
 drawable ic_mtrl_chip_checked_circle
 drawable ic_mtrl_chip_close_circle
+drawable ic_phone
 drawable ic_pray_place
 drawable ic_rute_angkot
+drawable ic_schedule
 drawable ic_tour
 drawable img_clinic
 drawable img_doctor
@@ -1590,6 +1593,7 @@ id coordinator
 id custom
 id customPanel
 id cut
+id cvDoctor
 id cvKuliner
 id cvMainData
 id cvPrayList
@@ -1639,6 +1643,9 @@ id hideable
 id home
 id homeAsUp
 id hybrid
+id icAddress
+id icPhone
+id icSchedule
 id icon
 id icon_group
 id icon_only
@@ -1736,6 +1743,7 @@ id rlHotel
 id rlListHotel
 id rounded
 id rvDoctor
+id rvGuide
 id rvHotel
 id rvKuliner
 id rvMainMenu
@@ -1837,6 +1845,10 @@ id transition_scene_layoutid_cache
 id transition_transform
 id tvAddressHotel
 id tvAddressKuliner
+id tvClinicAddress
+id tvClinicName
+id tvClinicPhone
+id tvClinicSchedule
 id tvDate
 id tvDesc
 id tvDescWisata
@@ -1852,6 +1864,7 @@ id tvOpenTime
 id tvPhoneHotel
 id tvPhoneKuliner
 id tvSpecialist
+id tvTitle
 id tvWisata
 id txtPlaceName
 id unchecked
@@ -1966,6 +1979,7 @@ layout ime_base_split_test_activity
 layout ime_secondary_split_test_activity
 layout item_grid_main
 layout item_list_doctor
+layout item_list_guide
 layout item_list_hotel
 layout item_list_kuliner
 layout item_list_pray_place

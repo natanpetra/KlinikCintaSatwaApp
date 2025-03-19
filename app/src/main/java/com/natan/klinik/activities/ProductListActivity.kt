@@ -4,6 +4,7 @@ import android.os.Bundle
 import android.widget.Toast
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
+import androidx.appcompat.widget.Toolbar
 import androidx.core.view.ViewCompat
 import androidx.core.view.WindowInsetsCompat
 import androidx.recyclerview.widget.LinearLayoutManager
@@ -20,12 +21,22 @@ import retrofit2.Response
 
 class ProductListActivity : AppCompatActivity(), ProductAdapter.onSelectData {
     private lateinit var recyclerView: RecyclerView
+    private lateinit var toolbar: Toolbar
     private lateinit var adapter: ProductAdapter
     private var productList: MutableList<ProductItem> = mutableListOf()
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_doctor_list)
+
+        toolbar = findViewById(R.id.toolbar)
+
+        setSupportActionBar(toolbar)
+        supportActionBar?.setTitle("Product List")
+        supportActionBar?.setDisplayHomeAsUpEnabled(true)
+        toolbar.setNavigationOnClickListener {
+            onBackPressed()
+        }
 
         recyclerView = findViewById(R.id.rvDoctor)
         recyclerView.layoutManager = LinearLayoutManager(this)

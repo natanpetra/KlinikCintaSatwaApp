@@ -7,6 +7,7 @@ import android.view.ViewGroup
 import android.widget.ImageView
 import android.widget.RelativeLayout
 import android.widget.TextView
+import androidx.cardview.widget.CardView
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.bumptech.glide.load.engine.DiskCacheStrategy
@@ -56,7 +57,7 @@ class DoctorAdapter(
     inner class ViewHolder(itemView: View) : RecyclerView.ViewHolder(itemView) {
         var txtSpecialist: TextView = itemView.findViewById(R.id.tvSpecialist)
         var txtName: TextView = itemView.findViewById(R.id.tvName)
-        var rlListDoctor: RelativeLayout = itemView.findViewById(R.id.rlListHotel) // Pastikan ID benar
+        var rlListDoctor: CardView = itemView.findViewById(R.id.cvDoctor) // Pastikan ID benar
         var imgDoctor: ImageView = itemView.findViewById(R.id.imgDoctor)
     }
 }
