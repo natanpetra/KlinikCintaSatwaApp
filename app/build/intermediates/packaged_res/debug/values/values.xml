@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <bool name="is_right_to_left">false</bool>
+    <color name="black">#FF000000</color>
     <color name="colorAccent">#FBC02D</color>
     <color name="colorPrimary">#ff42b549</color>
     <color name="colorPrimaryDark">#ff42b549</color>
-    <color name="white">#FFFFFF</color>
+    <color name="color_text">#101010</color>
+    <color name="gray">#ABABAB</color>
+    <color name="gray1">#F6F6F6</color>
+    <color name="green">#60BA62</color>
+    <color name="white">#FFFFFFFF</color>
     <string name="app_name">Klinik Hewan Cinta Satwa</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
     <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
         
         <item name="colorPrimary">@color/colorPrimary</item>

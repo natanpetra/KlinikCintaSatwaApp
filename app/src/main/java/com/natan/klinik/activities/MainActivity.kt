@@ -8,11 +8,14 @@ import android.net.Uri
 import android.os.Build
 import android.os.Bundle
 import android.text.format.DateFormat
+import android.view.LayoutInflater
 import android.view.View
+import android.view.ViewGroup
 import android.view.Window
 import android.view.WindowManager
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
+import androidx.fragment.app.Fragment
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.natan.klinik.R
@@ -22,54 +25,58 @@ import com.natan.klinik.model.ModelMain
 import com.natan.klinik.utils.Tools
 import java.util.Calendar
 
-class MainActivity : AppCompatActivity(), MainAdapter.OnSelectData {
-    lateinit var rvMainMenu: RecyclerView
-    var gridMargin: LayoutMarginDecoration? = null
-    var mdlMainMenu: ModelMain? = null
-    var lsMainMenu: MutableList<ModelMain?> = ArrayList<ModelMain?>()
-    var tvToday: TextView? = null
-    var hariIni: String? = null
+class MainActivity : Fragment(), MainAdapter.OnSelectData {
+    private lateinit var rvMainMenu: RecyclerView
+    private var gridMargin: LayoutMarginDecoration? = null
+    private var mdlMainMenu: ModelMain? = null
+    private var lsMainMenu: MutableList<ModelMain?> = ArrayList()
+    private lateinit var tvToday: TextView
+    private var hariIni: String? = null
 
-    override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
-
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.M) {
-            window.decorView.systemUiVisibility = (View.SYSTEM_UI_FLAG_LAYOUT_STABLE
-                    or View.SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN or View.SYSTEM_UI_FLAG_LIGHT_STATUS_BAR)
-        }
-
-        if (Build.VERSION.SDK_INT >= 21) {
-            setWindowFlag(this, WindowManager.LayoutParams.FLAG_TRANSLUCENT_STATUS, false)
-            window.statusBarColor = Color.TRANSPARENT
-        }
-
-        tvToday = findViewById(R.id.tvDate)
-        rvMainMenu = findViewById(R.id.rvMainMenu)
-        val mLayoutManager: GridLayoutManager = GridLayoutManager(
-            this, 2,
-            RecyclerView.VERTICAL, false
-        )
-        rvMainMenu.setLayoutManager(mLayoutManager)
-        gridMargin = LayoutMarginDecoration(2, Tools.dp2px(this, 4f))
-        rvMainMenu.addItemDecoration(gridMargin!!)
-        rvMainMenu.setHasFixedSize(true)
-
-        //get Time Now
-        val dateNow = Calendar.getInstance().time
-        hariIni = DateFormat.format("EEEE", dateNow) as String
-        today
+    override fun onCreateView(
+        inflater: LayoutInflater,
+        container: ViewGroup?,
+        savedInstanceState: Bundle?
+    ): View? {
+        val view = inflater.inflate(R.layout.activity_main, container, false)
+        setupViews(view)
+        setupRecyclerView()
+        setupDateTime()
         setMenu()
+        return view
     }
 
-    private val today: Unit
-        get() {
-            val date = Calendar.getInstance().time
-            val tanggal =
-                DateFormat.format("d MMMM yyyy", date) as String
-            val formatFix = "$hariIni, $tanggal"
-            tvToday?.setText(formatFix)
-        }
+    private fun setupViews(view: View) {
+        tvToday = view.findViewById(R.id.tvDate)
+        rvMainMenu = view.findViewById(R.id.rvMainMenu)
+    }
+
+    private fun setupRecyclerView() {
+        val mLayoutManager = GridLayoutManager(
+            context,
+            2,
+            RecyclerView.VERTICAL,
+            false
+        )
+        rvMainMenu.layoutManager = mLayoutManager
+        gridMargin = LayoutMarginDecoration(2, Tools.dp2px(requireContext(), 4f))
+        rvMainMenu.addItemDecoration(gridMargin!!)
+        rvMainMenu.setHasFixedSize(true)
+    }
+
+    private fun setupDateTime() {
+        // Get Time Now
+        val dateNow = Calendar.getInstance().time
+        hariIni = DateFormat.format("EEEE", dateNow) as String
+        setTodayDate()
+    }
+
+    private fun setTodayDate() {
+        val date = Calendar.getInstance().time
+        val tanggal = DateFormat.format("d MMMM yyyy", date) as String
+        val formatFix = "$hariIni, $tanggal"
+        tvToday.text = formatFix
+    }
 
     private fun setMenu() {
         mdlMainMenu = ModelMain("Klinik", R.drawable.img_clinic)
@@ -81,46 +88,29 @@ class MainActivity : AppCompatActivity(), MainAdapter.OnSelectData {
         mdlMainMenu = ModelMain("Produk", R.drawable.img_produk)
         lsMainMenu.add(mdlMainMenu)
 
-        val myAdapter: MainAdapter = MainAdapter(lsMainMenu, this)
-        rvMainMenu.setAdapter(myAdapter)
+        val myAdapter = MainAdapter(lsMainMenu, this)
+        rvMainMenu.adapter = myAdapter
     }
 
-    fun call(phone: String) {
+    private fun call(phone: String) {
         val url = "https://api.whatsapp.com/send?phone=$phone"
         try {
-            val pm: PackageManager = packageManager
+            val pm: PackageManager = requireActivity().packageManager
             pm.getPackageInfo("com.whatsapp", PackageManager.GET_ACTIVITIES)
-            val i: Intent = Intent(Intent.ACTION_VIEW)
-            i.setData(Uri.parse(url))
+            val i = Intent(Intent.ACTION_VIEW)
+            i.data = Uri.parse(url)
             startActivity(i)
         } catch (e: PackageManager.NameNotFoundException) {
             startActivity(Intent(Intent.ACTION_VIEW, Uri.parse(url)))
         }
     }
 
-    companion object {
-        //set Transparent Status bar
-        fun setWindowFlag(activity: Activity, bits: Int, on: Boolean) {
-            val win: Window = activity.getWindow()
-            val winParams: WindowManager.LayoutParams = win.attributes
-            if (on) {
-                winParams.flags = winParams.flags or bits
-            } else {
-                winParams.flags = winParams.flags and bits.inv()
-            }
-            win.attributes = winParams
-        }
-    }
-
     override fun onSelected(mdlMain: ModelMain?) {
-        if (mdlMain?.txtName == "Klinik") {
-            startActivity(Intent(this, ClinicActivity::class.java))
-        } else if (mdlMain?.txtName == "Dog Care") {
-            startActivity(Intent(this, DogGuideActivity::class.java))
-        } else if (mdlMain?.txtName == "Dokter") {
-            startActivity(Intent(this, DoctorListActivity::class.java))
-        } else if (mdlMain?.txtName == "Produk") {
-            startActivity(Intent(this, ProductListActivity::class.java))
+        when (mdlMain?.txtName) {
+            "Klinik" -> startActivity(Intent(requireContext(), ClinicActivity::class.java))
+            "Dog Care" -> startActivity(Intent(requireContext(), DogGuideActivity::class.java))
+            "Dokter" -> startActivity(Intent(requireContext(), DoctorListActivity::class.java))
+            "Produk" -> startActivity(Intent(requireContext(), ProductListActivity::class.java))
         }
     }
 }

@@ -1,286 +1,414 @@
 [
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/layout_item_list_kuliner.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/layout/item_list_kuliner.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable-xxxhdpi_ic_komunitas.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable-xxxhdpi/ic_komunitas.png"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable_police_station.png.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/drawable/police_station.png"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable-xhdpi_ic_dtl_loc.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable-xhdpi/ic_dtl_loc.png"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable-xxxhdpi_ic_tour.png.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/drawable-xxxhdpi/ic_tour.png"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_item_list_doctor.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/item_list_doctor.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/layout_item_list_product.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/layout/item_list_product.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable_ic_history.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable/ic_history.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/layout_activity_kuliner.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/layout/activity_kuliner.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable-xxxhdpi_ic_destination.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable-xxxhdpi/ic_destination.png"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable-xhdpi_ic_categories.png.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/drawable-xhdpi/ic_categories.png"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_item_list_hotel.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/item_list_hotel.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable_pos_polisi.png.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/drawable/pos_polisi.png"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable-xxxhdpi_ic_home.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-pngs-32:/drawable-xxxhdpi/ic_home.png"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable_img_clinic.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/drawable/img_clinic.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_header_main.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/header_main.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/layout_item_list_hotel.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/layout/item_list_hotel.xml"
+        "merged": "com.natan.klinik.app-merged_res-36:/drawable_bg_circle.xml.flat",
+        "source": "com.natan.klinik.app-main-38:/drawable/bg_circle.xml"
     },
     {
-        "merged": "com.natan.klinik.app-merged_res-31:/drawable_ic_location.xml.flat",
-        "source": "com.natan.klinik.app-main-33:/drawable/ic_location.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable-hdpi_ic_home.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-pngs-32:/drawable-hdpi/ic_home.png"
     },
     {
-        "merged": "com.natan.klinik.app-merged_res-31:/layout_activity_clinic.xml.flat",
-        "source": "com.natan.klinik.app-main-33:/layout/activity_clinic.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable_button_background.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable/button_background.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable_edittext_background.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/drawable/edittext_background.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_activity_detail_obat.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_detail_obat.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable-xhdpi_ic_dtl_phone.png.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/drawable-xhdpi/ic_dtl_phone.png"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable_pos_polisi.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable/pos_polisi.png"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable-xhdpi_ic_arrow.png.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/drawable-xhdpi/ic_arrow.png"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable-anydpi-v24_ic_home.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-pngs-32:/drawable-anydpi-v24/ic_home.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable-xhdpi_ic_dtl_loc.png.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/drawable-xhdpi/ic_dtl_loc.png"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable/ic_launcher_background.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/layout_activity_wisata.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/layout/activity_wisata.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_activity_detail_doctor.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_detail_doctor.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable-xxxhdpi_ic_komunitas.png.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/drawable-xxxhdpi/ic_komunitas.png"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_activity_doctor_list.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_doctor_list.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/mipmap-xhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/mipmap-xhdpi/ic_launcher_round.png"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_activity_dog_guide.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_dog_guide.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/layout_activity_dog_guide.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/layout/activity_dog_guide.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_item_grid_main.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/item_grid_main.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/mipmap-xhdpi_ic_launcher.png.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/mipmap-xhdpi/ic_launcher.png"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_activity_login.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_login.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/layout_activity_maps.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/layout/activity_maps.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/mipmap-xhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable_ic_launcher_background.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/drawable/ic_launcher_background.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable_ic_phone.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable/ic_phone.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/layout_activity_splash_screen.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/layout/activity_splash_screen.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_activity_product_list.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_product_list.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/layout_activity_pray_place.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/layout/activity_pray_place.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/menu_menu_home_item.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/menu/menu_home_item.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable-xhdpi_ic_dtl_hotel.png.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/drawable-xhdpi/ic_dtl_hotel.png"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_fragment_riwayat_obat.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/fragment_riwayat_obat.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable-xxxhdpi_ic_banner.jpg.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/drawable-xxxhdpi/ic_banner.jpg"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_activity_kuliner.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_kuliner.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/layout_activity_doctor_list.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/layout/activity_doctor_list.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_fragment_home.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/fragment_home.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/mipmap-xxhdpi_ic_launcher.png.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/mipmap-xxhdpi/ic_launcher.png"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_activity_detail_kuliner.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_detail_kuliner.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable_ic_circle_white.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/drawable/ic_circle_white.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable-xxxhdpi_ic_pray_place.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable-xxxhdpi/ic_pray_place.png"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable_button_background.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/drawable/button_background.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_item_list_product.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/item_list_product.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable_logo_polda.png.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/drawable/logo_polda.png"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable-xhdpi_ic_dtl_wisata.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable-xhdpi/ic_dtl_wisata.png"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable_img_klinik_cinta.png.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/drawable/img_klinik_cinta.png"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_item_list_kuliner.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/item_list_kuliner.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable-xhdpi_ic_dtl_desc.png.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/drawable-xhdpi/ic_dtl_desc.png"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable-xhdpi_ic_arrow.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable-xhdpi/ic_arrow.png"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/layout_activity_detail_wisata.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/layout/activity_detail_wisata.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_activity_clinic.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_clinic.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/mipmap-xxxhdpi/ic_launcher_round.png"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable_img_produk.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable/img_produk.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/mipmap-mdpi_ic_launcher.png.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/mipmap-mdpi/ic_launcher.png"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/mipmap-mdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable_bg_circle_radius_primary.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/drawable/bg_circle_radius_primary.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_activity_hotel.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_hotel.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/layout_activity_detail_hotel.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/layout/activity_detail_hotel.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable_bg_bottom_navigation.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable/bg_bottom_navigation.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/mipmap-xxxhdpi_ic_launcher.png.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable-xxhdpi_ic_home.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-pngs-32:/drawable-xxhdpi/ic_home.png"
     },
     {
-        "merged": "com.natan.klinik.app-merged_res-31:/drawable_ic_phone.xml.flat",
-        "source": "com.natan.klinik.app-main-33:/drawable/ic_phone.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_fragment_profile.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/fragment_profile.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/layout_activity_detail_kuliner.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/layout/activity_detail_kuliner.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable_police_station.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable/police_station.png"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/mipmap-mdpi_ic_launcher_round.png.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/mipmap-mdpi/ic_launcher_round.png"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable_bg_card.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable/bg_card.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/layout_activity_clinic.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/layout/activity_clinic.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_activity_detail_hotel.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_detail_hotel.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/mipmap-xxhdpi_ic_launcher_round.png.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/mipmap-xxhdpi/ic_launcher_round.png"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/mipmap-xxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable-xxxhdpi_ic_pray_place.png.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/drawable-xxxhdpi/ic_pray_place.png"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable-xhdpi_ic_dtl_phone.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable-xhdpi/ic_dtl_phone.png"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable-xxxhdpi_ic_destination.png.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/drawable-xxxhdpi/ic_destination.png"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_activity_pray_place.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_pray_place.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/layout_activity_hotel.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/layout/activity_hotel.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable_logo_polda.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable/logo_polda.png"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable-xhdpi_ic_dtl_time.png.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/drawable-xhdpi/ic_dtl_time.png"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/mipmap-xxxhdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/layout_item_list_pray_place.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/layout/item_list_pray_place.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable_img_klinik_cinta.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable/img_klinik_cinta.png"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable_img_doctor.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/drawable/img_doctor.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/mipmap-hdpi/ic_launcher.png"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable-xxxhdpi_ic_rute_angkot.png.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/drawable-xxxhdpi/ic_rute_angkot.png"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_activity_wisata.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_wisata.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable-xxxhdpi_ic_hotel.png.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/drawable-xxxhdpi/ic_hotel.png"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/mipmap-xxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-pngs-27:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_activity_scan.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_scan.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/layout_header_main.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/layout/header_main.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_activity_splash_screen.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_splash_screen.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/mipmap-hdpi_ic_launcher.png.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/mipmap-hdpi/ic_launcher.png"
+        "merged": "com.natan.klinik.app-merged_res-36:/layout_activity_beranda.xml.flat",
+        "source": "com.natan.klinik.app-main-38:/layout/activity_beranda.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable_custom_marker.png.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/drawable/custom_marker.png"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable-xhdpi_ic_dtl_time.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable-xhdpi/ic_dtl_time.png"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable_img_dog_guide.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/drawable/img_dog_guide.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_item_list_guide.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/item_list_guide.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable-xhdpi_ic_dtl_wisata.png.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/drawable-xhdpi/ic_dtl_wisata.png"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable-xxxhdpi_ic_rute_angkot.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable-xxxhdpi/ic_rute_angkot.png"
     },
     {
-        "merged": "com.natan.klinik.app-merged_res-31:/drawable_ic_schedule.xml.flat",
-        "source": "com.natan.klinik.app-main-33:/drawable/ic_schedule.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable-xhdpi_ic_home.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-pngs-32:/drawable-xhdpi/ic_home.png"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/mipmap-hdpi_ic_launcher_round.png.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/mipmap-hdpi/ic_launcher_round.png"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_activity_detection.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_detection.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/layout_activity_main.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/layout/activity_main.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/mipmap-xxxhdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/layout_item_list_doctor.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/layout/item_list_doctor.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_fragment_riwayat_pemeriksaan.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/fragment_riwayat_pemeriksaan.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/layout_item_grid_main.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/layout/item_grid_main.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable-xxxhdpi_ic_banner.jpg.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable-xxxhdpi/ic_banner.jpg"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable-xhdpi_ic_dtl_kuliner.png.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/drawable-xhdpi/ic_dtl_kuliner.png"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable-mdpi_ic_home.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-pngs-32:/drawable-mdpi/ic_home.png"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/layout_activity_product_list.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/layout/activity_product_list.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable_custom_marker.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable/custom_marker.png"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/layout_item_list_guide.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/layout/item_list_guide.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/mipmap-mdpi/ic_launcher_round.png"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/layout_activity_login.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/layout/activity_login.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable_bg_circle_radius_primary.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable/bg_circle_radius_primary.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable-xxxhdpi_ic_cafe.png.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/drawable-xxxhdpi/ic_cafe.png"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable_ic_account.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable/ic_account.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable_img_produk.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/drawable/img_produk.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable_img_clinic.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable/img_clinic.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/layout_item_list_wisata.xml.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/layout/item_list_wisata.xml"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_activity_main.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_main.xml"
     },
     {
-        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-31:/drawable_police_call.png.flat",
-        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-33:/drawable/police_call.png"
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_activity_obat.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_obat.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable-xxxhdpi_ic_cafe.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable-xxxhdpi/ic_cafe.png"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_fragment_riwayat_konsultasi.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/fragment_riwayat_konsultasi.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_item_list_pray_place.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/item_list_pray_place.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_activity_detail_wisata.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_detail_wisata.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_activity_consultation.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_consultation.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable-xxxhdpi_ic_tour.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable-xxxhdpi/ic_tour.png"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable-ldpi_ic_home.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-pngs-32:/drawable-ldpi/ic_home.png"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable_police_call.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable/police_call.png"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable_edittext_background.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable/edittext_background.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable_img_doctor.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable/img_doctor.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable_ic_location.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable/ic_location.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable_ic_chat.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable/ic_chat.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_activity_riwayat.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_riwayat.xml"
+    },
+    {
+        "merged": "com.natan.klinik.app-merged_res-36:/layout_fragment_profile.xml.flat",
+        "source": "com.natan.klinik.app-main-38:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable-xhdpi_ic_dtl_desc.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable-xhdpi/ic_dtl_desc.png"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_activity_beranda.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_beranda.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_item_obat.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/item_obat.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable-xxxhdpi_ic_hotel.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable-xxxhdpi/ic_hotel.png"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable_img_dog_guide.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable/img_dog_guide.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable-xhdpi_ic_dtl_hotel.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable-xhdpi/ic_dtl_hotel.png"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_activity_checkout.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_checkout.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable_ic_schedule.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable/ic_schedule.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable-xhdpi_ic_categories.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable-xhdpi/ic_categories.png"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_item_list_wisata.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/item_list_wisata.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-pngs-32:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/color_bottom_navigation_color.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/color/bottom_navigation_color.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable_ic_overscan.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable/ic_overscan.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/layout_activity_maps.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_maps.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable-xhdpi_ic_dtl_kuliner.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable-xhdpi/ic_dtl_kuliner.png"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/drawable_ic_circle_white.xml.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/drawable/ic_circle_white.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-merged_res-36:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/mipmap-hdpi/ic_launcher_round.png"
     }
 ]

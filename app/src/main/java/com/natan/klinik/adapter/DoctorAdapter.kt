@@ -40,7 +40,7 @@ class DoctorAdapter(
 
         // Load Image dengan Glide
         Glide.with(mContext)
-            .load(data.name) // Pastikan ini sesuai dengan field gambar yang benar
+            .load(data.imageUrl) // Pastikan ini sesuai dengan field gambar yang benar
             .diskCacheStrategy(DiskCacheStrategy.ALL)
             .error(R.drawable.img_doctor)
             .into(holder.imgDoctor)

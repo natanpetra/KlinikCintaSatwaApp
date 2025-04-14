@@ -70,9 +70,23 @@
                                 android:id="@+id/tvDate"
                                 android:layout_width="wrap_content"
                                 android:layout_height="wrap_content"
+                                android:layout_weight="1"
                                 android:layout_marginStart="10dp"
                                 android:drawableStart="@drawable/ic_dtl_time"
                                 android:drawablePadding="10dp"
+                                android:drawableTint="@color/colorPrimary"
+                                android:gravity="center"
+                                android:textColor="@android:color/black"
+                                android:textSize="12sp" />
+
+                            <TextView
+                                android:id="@+id/tvRiwayat"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_marginStart="10dp"
+                                android:drawableStart="@drawable/ic_history"
+                                android:drawablePadding="10dp"
+                                android:text="Riwayat"
                                 android:drawableTint="@color/colorPrimary"
                                 android:gravity="center"
                                 android:textColor="@android:color/black"

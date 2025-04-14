@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.natan.klinik.app-mergeDebugResources-29:/values-af/values-af.xml",
+            "outputFile": "com.natan.klinik.app-mergeDebugResources-34:/values-af/values-af.xml",
             "map": [
                 {
                     "source": "/Users/naufalrefandi/.gradle/caches/transforms-3/e6f7600ad92638507b831f16375fdbf2/transformed/appcompat-1.1.0/res/values-af/values-af.xml",

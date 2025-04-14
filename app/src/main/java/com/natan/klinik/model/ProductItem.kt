@@ -1,7 +1,11 @@
 package com.natan.klinik.model
 
+import android.os.Parcelable
 import com.google.gson.annotations.SerializedName
+import kotlinx.parcelize.Parcelize
+import java.io.Serializable
 
+@Parcelize
 data class ProductItem(
 
 	@field:SerializedName("image")
@@ -33,4 +37,4 @@ data class ProductItem(
 
 	@field:SerializedName("category")
 	val category: String? = null
-)
+): Parcelable

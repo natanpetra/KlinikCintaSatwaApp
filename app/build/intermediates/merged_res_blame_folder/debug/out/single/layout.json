@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/activity_scan.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_scan.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/activity_maps.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_maps.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/item_obat.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/item_obat.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/activity_clinic.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_clinic.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/activity_detail_hotel.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_detail_hotel.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/activity_wisata.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_wisata.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/activity_dog_guide.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_dog_guide.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/activity_detail_doctor.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_detail_doctor.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/activity_splash_screen.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/activity_pray_place.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_pray_place.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/activity_detail_wisata.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_detail_wisata.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/activity_detail_obat.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_detail_obat.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/activity_beranda.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_beranda.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/activity_main.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/item_list_doctor.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/item_list_doctor.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/activity_product_list.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_product_list.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/activity_obat.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_obat.xml"
+    },
+    {
+        "merged": "com.natan.klinik.app-mergeDebugResources-35:/layout/activity_beranda.xml",
+        "source": "com.natan.klinik.app-main-38:/layout/activity_beranda.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/item_grid_main.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/item_grid_main.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/item_list_kuliner.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/item_list_kuliner.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/item_list_pray_place.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/item_list_pray_place.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/activity_riwayat.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_riwayat.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/item_list_hotel.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/item_list_hotel.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/activity_hotel.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_hotel.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/fragment_riwayat_konsultasi.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/fragment_riwayat_konsultasi.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/activity_doctor_list.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_doctor_list.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/activity_consultation.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_consultation.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/header_main.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/header_main.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/activity_kuliner.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_kuliner.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/activity_detail_kuliner.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_detail_kuliner.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/activity_checkout.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_checkout.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/item_list_wisata.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/item_list_wisata.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/activity_detection.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_detection.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/activity_login.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/fragment_riwayat_obat.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/fragment_riwayat_obat.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/item_list_product.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/item_list_product.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/item_list_guide.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/item_list_guide.xml"
+    },
+    {
+        "merged": "com.natan.klinik.app-mergeDebugResources-35:/layout/fragment_profile.xml",
+        "source": "com.natan.klinik.app-main-38:/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/fragment_home.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/fragment_riwayat_pemeriksaan.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/fragment_riwayat_pemeriksaan.xml"
+    },
+    {
+        "merged": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-mergeDebugResources-35:/layout/fragment_profile.xml",
+        "source": "/Users/naufalrefandi/.gradle/daemon/8.5/com.natan.klinik.app-main-38:/layout/fragment_profile.xml"
+    }
+]

@@ -27,6 +27,7 @@
     <uses-permission android:name="com.natan.klinik.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 
     <application
+        android:name="com.natan.klinik.BaseApp"
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:debuggable="true"
@@ -37,6 +38,33 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true" >
+        <activity
+            android:name="com.natan.klinik.activities.RiwayatActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.natan.klinik.activities.ScanActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.natan.klinik.activities.CheckoutActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.natan.klinik.activities.DetailObatActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.natan.klinik.activities.ObatActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.natan.klinik.activities.DetailDoctorActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.natan.klinik.activities.ConsultationActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.natan.klinik.activities.DetectionActivity"
+            android:exported="false" />
+        <activity
+            android:name="com.natan.klinik.activities.BerandaActivity"
+            android:exported="false" />
         <activity
             android:name="com.natan.klinik.activities.ClinicActivity"
             android:exported="false" />

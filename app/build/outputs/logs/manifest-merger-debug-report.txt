@@ -1,9 +1,10 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:2:1-54:12
-INJECTED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:2:1-54:12
-INJECTED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:2:1-54:12
-INJECTED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:2:1-54:12
+ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:2:1-82:12
+INJECTED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:2:1-82:12
+INJECTED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:2:1-82:12
+INJECTED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:2:1-82:12
+MERGED from [androidx.databinding:viewbinding:8.2.2] /Users/naufalrefandi/.gradle/caches/transforms-3/06d8ee6ce93f727441f1b7a87f3d6532/transformed/jetified-viewbinding-8.2.2/AndroidManifest.xml:2:1-7:12
 MERGED from [com.google.android.material:material:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4bef1701e672da5330136305fe453510/transformed/material-1.1.0/AndroidManifest.xml:17:1-24:12
 MERGED from [com.github.amitshekhariitbhu.Fast-Android-Networking:android-networking:1.0.4] /Users/naufalrefandi/.gradle/caches/transforms-3/98771a77ff5d0ff2f6f837fb0496f884/transformed/jetified-android-networking-1.0.4/AndroidManifest.xml:18:1-25:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/e6f7600ad92638507b831f16375fdbf2/transformed/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
@@ -47,6 +48,17 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nauf
 MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/167c11329e652592d126a36e5e23f008/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4bc1ae53c8847f733aaf2af7252bedf3/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/naufalrefandi/.gradle/caches/transforms-3/eacfc9b47efabc86ae0820203a887fd3/transformed/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [com.intuit.sdp:sdp-android:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/c70dd55ae49bf38cb94f9da32fb6132e/transformed/jetified-sdp-android-1.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [com.intuit.ssp:ssp-android:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/5764b874afffa02cb0be285a4cc0670f/transformed/jetified-ssp-android-1.1.0/AndroidManifest.xml:2:1-11:12
+MERGED from [org.pytorch:pytorch_android_torchvision_lite:1.13.1] /Users/naufalrefandi/.gradle/caches/transforms-3/23b004630a143f92f422201f2235a95f/transformed/jetified-pytorch_android_torchvision_lite-1.13.1/AndroidManifest.xml:2:1-10:12
+MERGED from [org.pytorch:pytorch_android_lite:1.13.1] /Users/naufalrefandi/.gradle/caches/transforms-3/997b88c4258c2a43b36ffcbbe5bb751b/transformed/jetified-pytorch_android_lite-1.13.1/AndroidManifest.xml:2:1-10:12
+MERGED from [com.pixplicity.easyprefs:EasyPrefs:1.10.0] /Users/naufalrefandi/.gradle/caches/transforms-3/41f605bb1595615bcc55e5545ac998fa/transformed/jetified-EasyPrefs-1.10.0/AndroidManifest.xml:2:1-9:12
+MERGED from [org.tensorflow:tensorflow-lite-support:0.4.3] /Users/naufalrefandi/.gradle/caches/transforms-3/cc02c4afc487573497e287e8ac5a38ba/transformed/jetified-tensorflow-lite-support-0.4.3/AndroidManifest.xml:2:1-5:12
+MERGED from [org.tensorflow:tensorflow-lite:2.16.1] /Users/naufalrefandi/.gradle/caches/transforms-3/7d891a1a331dbeeaf1c27a233e2bc51b/transformed/jetified-tensorflow-lite-2.16.1/AndroidManifest.xml:2:1-11:12
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.13.0] /Users/naufalrefandi/.gradle/caches/transforms-3/164e1a8e83d7a59b795300dbdada277f/transformed/jetified-tensorflow-lite-gpu-2.13.0/AndroidManifest.xml:2:1-11:12
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.3] /Users/naufalrefandi/.gradle/caches/transforms-3/d2c054c0a40b403deec6eb6e3ae7dc07/transformed/jetified-tensorflow-lite-support-api-0.4.3/AndroidManifest.xml:2:1-5:12
+MERGED from [org.tensorflow:tensorflow-lite-api:2.16.1] /Users/naufalrefandi/.gradle/caches/transforms-3/53aa042bf80aa8b62de09481b87cbf20/transformed/jetified-tensorflow-lite-api-2.16.1/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/naufalrefandi/.gradle/caches/transforms-3/cdd153e2b7510e4e72486b3c90710bfd/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:2:1-9:12
 	package
 		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:3:5-31
 		INJECTED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml
@@ -75,8 +87,8 @@ ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/mai
 	android:name
 		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:8:22-66
 application
-ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:10:5-52:19
-INJECTED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:10:5-52:19
+ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:10:5-80:19
+INJECTED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:10:5-80:19
 MERGED from [com.google.android.material:material:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4bef1701e672da5330136305fe453510/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.material:material:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4bef1701e672da5330136305fe453510/transformed/material-1.1.0/AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-maps:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/415257d18c2b22f5a4b34b256e6db5cd/transformed/jetified-play-services-maps-17.0.0/AndroidManifest.xml:30:5-36:19
@@ -105,94 +117,160 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/nauf
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/naufalrefandi/.gradle/caches/transforms-3/28747fec5154c8331bff1548a01f8638/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/naufalrefandi/.gradle/caches/transforms-3/eacfc9b47efabc86ae0820203a887fd3/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/naufalrefandi/.gradle/caches/transforms-3/eacfc9b47efabc86ae0820203a887fd3/transformed/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.16.1] /Users/naufalrefandi/.gradle/caches/transforms-3/7d891a1a331dbeeaf1c27a233e2bc51b/transformed/jetified-tensorflow-lite-2.16.1/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite:2.16.1] /Users/naufalrefandi/.gradle/caches/transforms-3/7d891a1a331dbeeaf1c27a233e2bc51b/transformed/jetified-tensorflow-lite-2.16.1/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.13.0] /Users/naufalrefandi/.gradle/caches/transforms-3/164e1a8e83d7a59b795300dbdada277f/transformed/jetified-tensorflow-lite-gpu-2.13.0/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.13.0] /Users/naufalrefandi/.gradle/caches/transforms-3/164e1a8e83d7a59b795300dbdada277f/transformed/jetified-tensorflow-lite-gpu-2.13.0/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:2.16.1] /Users/naufalrefandi/.gradle/caches/transforms-3/53aa042bf80aa8b62de09481b87cbf20/transformed/jetified-tensorflow-lite-api-2.16.1/AndroidManifest.xml:9:5-20
+MERGED from [org.tensorflow:tensorflow-lite-api:2.16.1] /Users/naufalrefandi/.gradle/caches/transforms-3/53aa042bf80aa8b62de09481b87cbf20/transformed/jetified-tensorflow-lite-api-2.16.1/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/naufalrefandi/.gradle/caches/transforms-3/cdd153e2b7510e4e72486b3c90710bfd/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/naufalrefandi/.gradle/caches/transforms-3/cdd153e2b7510e4e72486b3c90710bfd/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:7:5-20
 	android:extractNativeLibs
 		INJECTED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.13.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4947106c339b3d09df9822387f0bbab5/transformed/core-1.13.0/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:15:9-35
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:13:9-41
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:14:9-41
 	android:roundIcon
-		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:14:9-55
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:15:9-55
 	android:icon
-		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:12:9-50
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:13:9-50
 	android:allowBackup
-		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:11:9-35
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:12:9-35
 	android:theme
-		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:16:9-40
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:17:9-40
 	android:usesCleartextTraffic
-		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:17:9-44
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:18:9-44
+	android:name
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:11:9-32
+activity#com.natan.klinik.activities.RiwayatActivity
+ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:19:9-21:40
+	android:exported
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:21:13-37
+	android:name
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:20:13-55
+activity#com.natan.klinik.activities.ScanActivity
+ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:22:9-24:40
+	android:exported
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:24:13-37
+	android:name
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:23:13-52
+activity#com.natan.klinik.activities.CheckoutActivity
+ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:25:9-27:40
+	android:exported
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:26:13-56
+activity#com.natan.klinik.activities.DetailObatActivity
+ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:28:9-30:40
+	android:exported
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:29:13-58
+activity#com.natan.klinik.activities.ObatActivity
+ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:31:9-33:40
+	android:exported
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:32:13-52
+activity#com.natan.klinik.activities.DetailDoctorActivity
+ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:34:9-36:40
+	android:exported
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:36:13-37
+	android:name
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:35:13-60
+activity#com.natan.klinik.activities.ConsultationActivity
+ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:37:9-39:40
+	android:exported
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:38:13-60
+activity#com.natan.klinik.activities.DetectionActivity
+ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:40:9-42:40
+	android:exported
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:41:13-57
+activity#com.natan.klinik.activities.BerandaActivity
+ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:43:9-45:40
+	android:exported
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:45:13-37
+	android:name
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:44:13-55
 activity#com.natan.klinik.activities.ClinicActivity
-ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:18:9-20:40
+ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:46:9-48:40
 	android:exported
-		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:20:13-37
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:48:13-37
 	android:name
-		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:19:13-54
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:47:13-54
 activity#com.natan.klinik.activities.ProductListActivity
-ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:21:9-23:40
+ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:49:9-51:40
 	android:exported
-		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:23:13-37
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:51:13-37
 	android:name
-		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:22:13-59
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:50:13-59
 activity#com.natan.klinik.activities.MainActivity
-ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:24:9-26:40
+ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:52:9-54:40
 	android:exported
-		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:26:13-37
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:54:13-37
 	android:name
-		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:25:13-52
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:53:13-52
 activity#com.natan.klinik.activities.DoctorListActivity
-ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:27:9-29:40
+ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:55:9-57:40
 	android:exported
-		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:29:13-37
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:57:13-37
 	android:name
-		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:28:13-58
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:56:13-58
 activity#com.natan.klinik.activities.DogGuideActivity
-ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:30:9-32:40
+ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:58:9-60:40
 	android:exported
-		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:32:13-37
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:60:13-37
 	android:name
-		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:31:13-56
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:59:13-56
 activity#com.natan.klinik.activities.LoginActivity
-ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:33:9-35:40
+ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:61:9-63:40
 	android:exported
-		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:35:13-37
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:63:13-37
 	android:name
-		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:34:13-53
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:62:13-53
 activity#com.natan.klinik.activities.SplashScreenActivity
-ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:36:9-44:20
+ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:64:9-72:20
 	android:exported
-		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:38:13-36
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:66:13-36
 	android:name
-		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:37:13-60
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:65:13-60
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:39:13-43:29
+ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:67:13-71:29
 action#android.intent.action.MAIN
-ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:40:17-69
+ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:68:17-69
 	android:name
-		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:40:25-66
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:68:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:42:17-77
+ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:70:17-77
 	android:name
-		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:42:27-74
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:70:27-74
 meta-data#com.google.android.gms.version
-ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:46:9-48:69
+ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:74:9-76:69
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/f3ec1b1f9f61083ea50828868b686097/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
 MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/naufalrefandi/.gradle/caches/transforms-3/f3ec1b1f9f61083ea50828868b686097/transformed/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
 	android:value
-		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:48:13-66
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:76:13-66
 	android:name
-		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:47:13-58
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:75:13-58
 meta-data#com.google.android.geo.API_KEY
-ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:49:9-51:71
+ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:77:9-79:71
 	android:value
-		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:51:13-68
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:79:13-68
 	android:name
-		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:50:13-58
+		ADDED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml:78:13-58
 uses-sdk
 INJECTED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml
 INJECTED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.2.2] /Users/naufalrefandi/.gradle/caches/transforms-3/06d8ee6ce93f727441f1b7a87f3d6532/transformed/jetified-viewbinding-8.2.2/AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.2.2] /Users/naufalrefandi/.gradle/caches/transforms-3/06d8ee6ce93f727441f1b7a87f3d6532/transformed/jetified-viewbinding-8.2.2/AndroidManifest.xml:5:5-44
 MERGED from [com.google.android.material:material:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4bef1701e672da5330136305fe453510/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
 MERGED from [com.google.android.material:material:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4bef1701e672da5330136305fe453510/transformed/material-1.1.0/AndroidManifest.xml:20:5-44
 MERGED from [com.github.amitshekhariitbhu.Fast-Android-Networking:android-networking:1.0.4] /Users/naufalrefandi/.gradle/caches/transforms-3/98771a77ff5d0ff2f6f837fb0496f884/transformed/jetified-android-networking-1.0.4/AndroidManifest.xml:21:5-23:41
@@ -279,6 +357,28 @@ MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/naufalrefandi/.gradle
 MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/naufalrefandi/.gradle/caches/transforms-3/4bc1ae53c8847f733aaf2af7252bedf3/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/naufalrefandi/.gradle/caches/transforms-3/eacfc9b47efabc86ae0820203a887fd3/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
 MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /Users/naufalrefandi/.gradle/caches/transforms-3/eacfc9b47efabc86ae0820203a887fd3/transformed/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.intuit.sdp:sdp-android:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/c70dd55ae49bf38cb94f9da32fb6132e/transformed/jetified-sdp-android-1.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.sdp:sdp-android:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/c70dd55ae49bf38cb94f9da32fb6132e/transformed/jetified-sdp-android-1.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.ssp:ssp-android:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/5764b874afffa02cb0be285a4cc0670f/transformed/jetified-ssp-android-1.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.intuit.ssp:ssp-android:1.1.0] /Users/naufalrefandi/.gradle/caches/transforms-3/5764b874afffa02cb0be285a4cc0670f/transformed/jetified-ssp-android-1.1.0/AndroidManifest.xml:7:5-9:41
+MERGED from [org.pytorch:pytorch_android_torchvision_lite:1.13.1] /Users/naufalrefandi/.gradle/caches/transforms-3/23b004630a143f92f422201f2235a95f/transformed/jetified-pytorch_android_torchvision_lite-1.13.1/AndroidManifest.xml:6:5-8:41
+MERGED from [org.pytorch:pytorch_android_torchvision_lite:1.13.1] /Users/naufalrefandi/.gradle/caches/transforms-3/23b004630a143f92f422201f2235a95f/transformed/jetified-pytorch_android_torchvision_lite-1.13.1/AndroidManifest.xml:6:5-8:41
+MERGED from [org.pytorch:pytorch_android_lite:1.13.1] /Users/naufalrefandi/.gradle/caches/transforms-3/997b88c4258c2a43b36ffcbbe5bb751b/transformed/jetified-pytorch_android_lite-1.13.1/AndroidManifest.xml:6:5-8:41
+MERGED from [org.pytorch:pytorch_android_lite:1.13.1] /Users/naufalrefandi/.gradle/caches/transforms-3/997b88c4258c2a43b36ffcbbe5bb751b/transformed/jetified-pytorch_android_lite-1.13.1/AndroidManifest.xml:6:5-8:41
+MERGED from [com.pixplicity.easyprefs:EasyPrefs:1.10.0] /Users/naufalrefandi/.gradle/caches/transforms-3/41f605bb1595615bcc55e5545ac998fa/transformed/jetified-EasyPrefs-1.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.pixplicity.easyprefs:EasyPrefs:1.10.0] /Users/naufalrefandi/.gradle/caches/transforms-3/41f605bb1595615bcc55e5545ac998fa/transformed/jetified-EasyPrefs-1.10.0/AndroidManifest.xml:5:5-7:41
+MERGED from [org.tensorflow:tensorflow-lite-support:0.4.3] /Users/naufalrefandi/.gradle/caches/transforms-3/cc02c4afc487573497e287e8ac5a38ba/transformed/jetified-tensorflow-lite-support-0.4.3/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support:0.4.3] /Users/naufalrefandi/.gradle/caches/transforms-3/cc02c4afc487573497e287e8ac5a38ba/transformed/jetified-tensorflow-lite-support-0.4.3/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite:2.16.1] /Users/naufalrefandi/.gradle/caches/transforms-3/7d891a1a331dbeeaf1c27a233e2bc51b/transformed/jetified-tensorflow-lite-2.16.1/AndroidManifest.xml:6:5-7:38
+MERGED from [org.tensorflow:tensorflow-lite:2.16.1] /Users/naufalrefandi/.gradle/caches/transforms-3/7d891a1a331dbeeaf1c27a233e2bc51b/transformed/jetified-tensorflow-lite-2.16.1/AndroidManifest.xml:6:5-7:38
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.13.0] /Users/naufalrefandi/.gradle/caches/transforms-3/164e1a8e83d7a59b795300dbdada277f/transformed/jetified-tensorflow-lite-gpu-2.13.0/AndroidManifest.xml:6:5-7:38
+MERGED from [org.tensorflow:tensorflow-lite-gpu:2.13.0] /Users/naufalrefandi/.gradle/caches/transforms-3/164e1a8e83d7a59b795300dbdada277f/transformed/jetified-tensorflow-lite-gpu-2.13.0/AndroidManifest.xml:6:5-7:38
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.3] /Users/naufalrefandi/.gradle/caches/transforms-3/d2c054c0a40b403deec6eb6e3ae7dc07/transformed/jetified-tensorflow-lite-support-api-0.4.3/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-support-api:0.4.3] /Users/naufalrefandi/.gradle/caches/transforms-3/d2c054c0a40b403deec6eb6e3ae7dc07/transformed/jetified-tensorflow-lite-support-api-0.4.3/AndroidManifest.xml:4:3-71
+MERGED from [org.tensorflow:tensorflow-lite-api:2.16.1] /Users/naufalrefandi/.gradle/caches/transforms-3/53aa042bf80aa8b62de09481b87cbf20/transformed/jetified-tensorflow-lite-api-2.16.1/AndroidManifest.xml:6:5-7:38
+MERGED from [org.tensorflow:tensorflow-lite-api:2.16.1] /Users/naufalrefandi/.gradle/caches/transforms-3/53aa042bf80aa8b62de09481b87cbf20/transformed/jetified-tensorflow-lite-api-2.16.1/AndroidManifest.xml:6:5-7:38
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/naufalrefandi/.gradle/caches/transforms-3/cdd153e2b7510e4e72486b3c90710bfd/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.odml:image:1.0.0-beta1] /Users/naufalrefandi/.gradle/caches/transforms-3/cdd153e2b7510e4e72486b3c90710bfd/transformed/jetified-image-1.0.0-beta1/AndroidManifest.xml:5:5-44
 	android:targetSdkVersion
 		INJECTED from /Users/naufalrefandi/Documents/GitHub/KlinikCintaSatwaApp/app/src/main/AndroidManifest.xml
 	android:minSdkVersion

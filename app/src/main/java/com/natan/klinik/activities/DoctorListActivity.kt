@@ -1,5 +1,6 @@
 package com.natan.klinik.activities
 
+import android.content.Intent
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
@@ -64,6 +65,11 @@ class DoctorListActivity : AppCompatActivity(), DoctorAdapter.OnDoctorSelectedLi
     }
 
     override fun onSelected(modelDoctor: DoctorItem) {
+        // Handle the selected doctor item
         Toast.makeText(this, "Selected: ${modelDoctor.name}", Toast.LENGTH_SHORT).show()
+        // You can start a new activity or show details here
+         val intent = Intent(this, DetailDoctorActivity::class.java)
+         intent.putExtra("doctor", modelDoctor)
+         startActivity(intent)
     }
 }

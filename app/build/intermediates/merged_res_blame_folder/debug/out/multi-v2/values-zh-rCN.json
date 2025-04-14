@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.natan.klinik.app-mergeDebugResources-29:/values-zh-rCN/values-zh-rCN.xml",
+            "outputFile": "com.natan.klinik.app-mergeDebugResources-34:/values-zh-rCN/values-zh-rCN.xml",
             "map": [
                 {
                     "source": "/Users/naufalrefandi/.gradle/caches/transforms-3/ed74ea9dc96708b5de94a8ff6c2b5657/transformed/jetified-play-services-base-17.0.0/res/values-zh-rCN/values.xml",

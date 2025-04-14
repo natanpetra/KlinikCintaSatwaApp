@@ -1,6 +1,7 @@
 package com.natan.klinik.model
 
 import com.google.gson.annotations.SerializedName
+import java.io.Serializable
 
 data class DoctorItem(
 
@@ -13,6 +14,9 @@ data class DoctorItem(
 	@field:SerializedName("name")
 	val name: String? = null,
 
+	@field:SerializedName("image_url")
+	val imageUrl: String? = null,
+
 	@field:SerializedName("specialization")
 	val specialization: String? = null,
 
@@ -21,4 +25,4 @@ data class DoctorItem(
 
 	@field:SerializedName("id")
 	val id: Int? = null
-)
+) : Serializable

@@ -13,6 +13,7 @@ import androidx.core.view.WindowInsetsCompat
 import com.natan.klinik.R
 import com.natan.klinik.model.Profile
 import com.natan.klinik.network.RetrofitClient
+import com.pixplicity.easyprefs.library.Prefs
 import okhttp3.Callback
 import retrofit2.Call
 import retrofit2.Response
@@ -31,6 +32,11 @@ class LoginActivity : AppCompatActivity() {
         edtPassword = findViewById(R.id.et_password)
         btnLogin = findViewById(R.id.btn_login)
 
+        if (!Prefs.getString("token").equals("")) {
+            startActivity(Intent(this, BerandaActivity::class.java))
+            finish()
+        }
+
         btnLogin.setOnClickListener {
             val email = edtEmail.text.toString().trim()
             val password = edtPassword.text.toString().trim()
@@ -44,14 +50,18 @@ class LoginActivity : AppCompatActivity() {
     }
 
     private fun loginUser(email: String, password: String) {
-        RetrofitClient.instance.login(email, password)
-            .enqueue(object : retrofit2.Callback<Profile> {
+        RetrofitClient.instance.login(email, password).enqueue(object : retrofit2.Callback<Profile> {
                 override fun onResponse(call: Call<Profile>, response: Response<Profile>) {
                     if (response.isSuccessful) {
                         val profile = response.body()
                         if (profile != null) {
+                            Prefs.putString("token", profile.tokenApi)
+                            Prefs.putString("name", profile.name)
+                            Prefs.putString("email", profile.email)
+                            Prefs.putInt("role_id", profile.roleId!!)
+                            Prefs.putString("image", profile.imageUrl)
                             Toast.makeText(this@LoginActivity, "Login Berhasil", Toast.LENGTH_SHORT).show()
-                            startActivity(Intent(this@LoginActivity, MainActivity::class.java))
+                            startActivity(Intent(this@LoginActivity, BerandaActivity::class.java))
                             finish()
                         }
                     } else {
